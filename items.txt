@@ -1,0 +1,2 @@
+Product	Brand	Size	Gender	Color	Price	Reference number	Quantity	Discount
+CAP	NIKE	MEDIUM	MALE	BLUE	35	2556			282		YES
